@@ -6,7 +6,7 @@ import textwrap
 # CONFIGURAÇÕES
 # ================================
 
-NOME_DA_LOJA = "PIXEL PÁTIO"
+NOME_DA_LOJA = "PIXEL STORE"
 ARQUIVO_PEDIDOS = "pedidos.txt"
 FORMAS_DE_PAGAMENTO = ["Pix", "Cartão de crédito", "Boleto"]
 
